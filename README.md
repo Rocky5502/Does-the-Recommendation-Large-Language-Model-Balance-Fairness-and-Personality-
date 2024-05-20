@@ -6,3 +6,4 @@ CCS Concepts: •Information systems → Recommender system.
 
 KEYWORDS
 Large Language Model, Recommender Systems, Personality, Fairness Evaluation
+![Final Fig 01](https://github.com/Rocky5502/Does-the-Recommendation-Large-Language-Model-Balance-Fairness-and-Personality-/assets/70815297/abd18c93-302d-4d33-80a2-a57d33303d93)
